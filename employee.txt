@@ -1,4 +1,6 @@
 Employee ID | Employee Name | Department | Designation | Salary
 E10 | devansh | IT | Developer | 50000
 E12 | Ankit | HR | Manager | 60000
-E13 | arzoo | Financer | Accountant | 45000
+E13 | Kartikey | Financer | Accountant | 45000
+E14 | aditya | STAR| 34500
+
